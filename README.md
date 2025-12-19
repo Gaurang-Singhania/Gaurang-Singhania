@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gaurang
 ===============================================================================================================================
 
-I am a 2nd Year Computer Engineering Student at D.J. Sanghvi College Of Enginnering.
+I am a 4th Year Computer Engineering Student at D.J. Sanghvi College Of Enginnering.
 
 *   🌍  I'm based in Mumbai
 *   ✉️  You can contact me [here](mailto:gaurang936@gmail.com)
-*   🧠  I'm learning Backend Development.
 *   🤝  I'm open to collaborating on Frontend as well as Machine Learning projects.
 <hr>
 
